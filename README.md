@@ -11,7 +11,7 @@ make_data.ipynb
 ```
 ### 2. Model Training
 ```bash
-rain_segmentation_other_decoder.py
+python train_segmentation_other_decoder.py
 ```
 ### 2. Model Testing
 ```bash
