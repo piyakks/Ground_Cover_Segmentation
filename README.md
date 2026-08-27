@@ -7,7 +7,7 @@ https://www.kaggle.com/competitions/ground-cover-segmentation-challenge-by-duali
 
 ### 1. Data Processing
 ```bash
-data.ipynb
+make_data.ipynb
 ```
 ### 2. Model Training
 ```bash
