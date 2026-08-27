@@ -1,0 +1,2 @@
+# Ground_Cover_Segmentation
+kaggle_competition_2th
