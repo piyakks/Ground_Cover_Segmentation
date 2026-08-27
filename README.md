@@ -6,10 +6,12 @@ https://www.kaggle.com/competitions/ground-cover-segmentation-challenge-by-duali
 ### 1. Data Processing
 ```bash
 data.ipynb
-
+```
 ### 2. Model Training
 ```bash
 rain_segmentation_other_decoder.py
+```
 ### 2. Model Testing
 ```bash
 python train_segmentation_other_decoder.py
+```
